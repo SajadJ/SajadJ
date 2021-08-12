@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SajadJ
 - 👀 I’m interested in Research and innovation | signal processing  
-- 🌱 I’m currently learning ML-ultrasound
+- 🌱 I’m currently learning ML/DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sajad DOT jazayeri AT GMAIL DOT COM
 <!---
